@@ -54,5 +54,8 @@ Validation accuracy – 0.73
 
 	Final Selected model due to performance
 
+ #Contributors:
+-> Indraneel Pradhan
+
 
 
